@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Jonatan
 
-<!--
-**j-michimani-g/j-michimani-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an astronomer working with small solar system bodies.  
 
-Here are some ideas to get you started:
+### 🔭 Research & Interests
+- Small Solar System Bodies (SSSBs)
+- Spectroscopy & taxonomy
+- NEOs population studies
+- Python for data analysis & visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Technologies
+- Python (NumPy, pandas, matplotlib, astropy)
+- Jupyter Notebooks
+- Git & GitHub
+- FORTRAN (learning), C (soon)
+
+### 🌍 Where I'm from
+Originally from México 🇲🇽, currently based in Brazil 🇧🇷.
+
+### 📫 How to reach me
+- ORCID: [your link]
+- Website / Blog: [if you have one]
+- Email: [optional]
+
+> *"Coding with purpose. Researching with curiosity."*
