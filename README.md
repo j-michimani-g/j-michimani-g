@@ -4,8 +4,8 @@ I'm an astronomer working with small solar system bodies.
 
 ### 🔭 Research & Interests
 - Small Solar System Bodies (SSSBs)
-- Spectroscopy & taxonomy
-- NEOs population studies
+- Photometry & Spectroscopy 
+- SSSBs population studies
 - Python for data analysis & visualization
 
 ### 🧰 Tools & Technologies
