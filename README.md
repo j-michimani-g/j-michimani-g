@@ -9,9 +9,7 @@ I'm an astronomer working with small solar system bodies.
 - Python for data analysis & visualization
 
 ### 🧰 Tools & Technologies
-- Python (NumPy, pandas, matplotlib, astropy)
-- Jupyter Notebooks
-- Git & GitHub
+- Python, Jupyter Notebooks
 - FORTRAN (learning), C (soon)
 
 ### 🌍 Where I'm from
