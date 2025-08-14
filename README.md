@@ -1,3 +1,3 @@
 # Hi there 👋 I'm Jonatan
 
-I'm an astronomer originally from México 🇲🇽, currently based in Brazil 🇧🇷. 
+I'm a mexican astronomer currently based in Brazil 🇧🇷. 
